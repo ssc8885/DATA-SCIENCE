@@ -1,2 +1,2 @@
 # DATA-SCIENCE
-This is the repository for all y data science codes
+This is the repository for all my data science codes
